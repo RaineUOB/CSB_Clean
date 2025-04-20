@@ -22,7 +22,15 @@ A cleaned up version of the CSB materials, with the addition of some personal re
 |21| [Lecture 7 - Intro to OS](slides/L7_Intro_Operating_Systems.pdf)| [Lab 7](labs/Lab7.md)| [Exercice Sheet](exercises/Exercise7.md)|
 |22| [Lecture 8 - Memory Management + OS](slides/L8_Memory_Management_Operating_Systems.pdf)<br> [Video for Memory replacement policies (Extra content)](https://uob-my.sharepoint.com/:v:/g/personal/fx21441_bristol_ac_uk/ESH33e2i3zhfi91a7iVWXrIBWHqD3s087xJufJVGQZvJsA?e=d8nvmG) <br> [Video for Clock Replacement Policy](https://uob-my.sharepoint.com/:v:/g/personal/fx21441_bristol_ac_uk/EQxrLl0ukoVHns34DxW_r0MBRWdmthrGWDVtTZ3hD932mg?e=gf9xdE) | [Lab 8](labs/Lab8.md) | [Exercice Sheet](exercises/Exercise8.md) |
 
+
+## Notes 
+- Exam is apparently MCQ(Multiple choice questions) this year
+- Open book, up to 1 A4 page (two sides)
+- No past papers are available
+
 ## Credits 
 - Alma Oracevic    - Course materials 
 - Sana Belguith    - Course materials
 - Ravi Mistry      - Compilation of resources
+
+_this repo is unofficial, please check the official course pages for updates_ 
