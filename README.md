@@ -24,8 +24,8 @@ A cleaned up version of the CSB materials, with the addition of some personal re
 
 
 ## Notes 
-- Exam is apparently MCQ(Multiple choice questions) this year
-- Open book, up to 1 A4 page (two sides)
+- Exam confirmed to be MCQ(Multiple choice questions) this year
+- Open book, up to 1 A4 page (two sides) Printed or handwritten 
 - No past papers are available
 
 ## Credits 
