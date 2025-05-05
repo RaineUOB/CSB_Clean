@@ -27,6 +27,11 @@ A cleaned up version of the CSB materials, with the addition of some personal re
 - Exam confirmed to be MCQ(Multiple choice questions) this year
 - Open book, up to 1 A4 page (two sides) Printed or handwritten 
 - No past papers are available
+- Regarding marks: 
+
+  - Part 1 questions are worth 3 points each.
+  - Part 2 questions are worth 5 points each.
+  - Part 3 questions are worth 12.5 points each.
 
 ## Credits 
 - Alma Oracevic    - Course materials 
